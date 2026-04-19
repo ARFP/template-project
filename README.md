@@ -7,10 +7,9 @@
 
 - Version : 1.0.0
 - Auteur(s): 
-    - [Prénom NOM]
-    - [Prénom NOM]
+    - [Prénom NOM](https://github.com/username)
 
-## Description des fonctionnalités
+## Description de l'application
 
 [Nom du Projet] est une application [Décrire l'application en quelques mots].
 
@@ -56,8 +55,8 @@ Ce projet nécessite un environnement compatible avec les spécifications suivan
 
 Ce projet est entièrement conteneurisé. Assurez-vous d'avoir Docker installé sur votre machine.
 
-1. Clonez ce dépôt : `git clone [URL_DU_DEPOT]`
-2. Accédez au dossier : `cd [NOM_DU_DOSSIER]`
+1. Clonez le dépôt : `git clone https://github.com/username/repo_url`
+2. Accédez au dossier local du dépôt cloné
 3. Lancez l'environnement :
 ```bash
 docker compose up -d

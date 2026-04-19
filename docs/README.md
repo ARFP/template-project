@@ -7,7 +7,7 @@ Ce répertoire contient la documentation de l'application.
 - Maquettes
 - Tous les diagrammes
 - Algorithmes
-- Documentation Utilisateur
+- Documentation Utilisateur (ce document)
 
 # Documentation Utilisateur
 
